@@ -16,7 +16,7 @@
 
 - **Hostel4U:** Es la página del hostel que tenemos que analizar en esta práctica. Se trata de una página para poder realizar reservas en un hostel cerca del centro de Granada. Se puede contactar tanto por teléfono como por email así como realizar reservas online. Se ven fotografías de las diferentes habitaciones aunque hay solo una por habitación. También tiene un bar donde se realizan diferentes actividades de ocio.
 - **The Hat Madrid:** Hemos elegido este hostel porque es de una ciudad distinta y más grande. La opción de reservar no es muy llamativa a diferencia de las otras páginas (está en la esquina superior izquierda y con letra muy pequeña). Las fotos de las diferentes habitaciones se repiten y hay algunos enlaces que no funcionan. También ofrecen actividades y servicios gratuitos pero no indican cómo acceder a ellos.
-- **TOC Hostel:** Este hostel es también de Granada, cerca de la Catedral, aunque es una franquicia y hay en más lugares de España. Hemos elegido este hostel porque es de la misma ciudad que el que vamos a analizar y porque la interfaz es muy intuitiva, hay gran variedad de fotos y ofrece una gran cantidad de información detallada acerca de sus servicios y actividades.
+- **TOC Hostel:** Este hostel es también de Granada, cerca de la Catedral, aunque es una franquicia y hay en más lugares de España. Hemos elegido este hostel porque es de la misma ciudad que el que vamos a analizar y porque la interfaz es muy intuitiva, hay gran variedad de fotos y ofrece una gran cantidad de información detallada acerca de sus servicios y actividades. 
 
 ## ![Método UX](../img/Persona.png) 1.b Persona
 
