@@ -177,36 +177,93 @@ Finalmente, hemos realizado un prototipo Lo-Fi de nuestra aplicación (es una ap
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para comenzar, hemos realizado un Moodboard, usando imágenes que representas las actividad que van a realizar los usuarios de nuestra aplicación. La paleta de colores está inspirada en la página web del Hostel4U y son los que hemos utilizado para realizar tanto el logo como la landing page y la aplicación móvil.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Como fuentes hemos utilizado Limelight para el logo y el eslogán y Inria Serif para el resto de texto. Hemos realizado el moodboard usando la herramienta Milanote y se puede consultar el proyecto en el [siguiente enlace](https://app.milanote.com/1NMCdN1LzYu3ak?p=cQbuBJFJKk6). 
+
+Por otro lado, hemos usado la página [DesignEvo](https://www.designevo.com/) para realizar el logo. Hemos elegido este diseño porque representa el enlace entre dos personas en torno a un corazón simbolizando el altruismo en compartir experiencias.
+
+![](img/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+También hemos realizado una landingpage del proyecto, usando de nuevo la paleta de colores escogida anteriormente y las fuentes.
 
->>> Plantear Landing Page 
+Hemos intentado primar la simplicidad del diseño optando por un esquema más visual, transmitiendo el mensaje mediante imágenes y manteniendo el texto al mínimo.
+
+La landing page se puede consultar [aquí](https://github.com/quepereza/DIU/blob/master/P3/Landing%20Page.pdf).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para decidir qué patrones debemos usar en nuestra aplicación, comenzamos analizando las distintas necesidades de los usuarios, qué esperan de nuestra aplicación y qué soluciones a estos requisitos se ajustan mejor.
+
+Observando los patrones disponibles en la página [ui-patterns.com](http://ui-patterns.com/patterns), hemos considerado que los más adecuados son los siguientes:
+
+- [Home Link](https://ui-patterns.com/patterns/HomeLink): para poder usar el logo de la app como botón de inicio.
+- [Lazy Registration](https://ui-patterns.com/patterns/LazyRegistration): para que los usuarios puedan usar la aplicación sin la necesidad de registrarse.
+- [Tagging](https://ui-patterns.com/patterns/Tag): para que se puedan añadir etiquetas a las publicaciones y eventos, con el fin de hacer más fáciles las búsquedas.
+- [Search Filter](https://ui-patterns.com/patterns/LiveFilter): para poder realizar búsquedas ajustadas a las necesidades de cada usuario.
+- [Horizontal Dropdown Menu](https://ui-patterns.com/patterns/HorizontalDropdownMenu): para el menú lateral desplegable desde cualquier sitio de la app.
+- [Gallery](https://ui-patterns.com/patterns/Gallery): para que en una publicación o evento se pueda añadir una serie d.e imágenes con calidad.
+- [ImageZoom](https://ui-patterns.com/patterns/ImageZoom): para poder hacer zoom sobre las imágenes.
+- [Continuous Scrolling](https://ui-patterns.com/patterns/ContinuousScrolling): para desplazarse por los apartados de publicaciones y eventos.
+- [Chat](https://ui-patterns.com/patterns/direct-messaging): para el apartado de chats, en el que los usuarios interaccionan entre sí a través de chats individuales o grupales.
+- [Input Prompt](https://ui-patterns.com/patterns/InputPrompt): para esclarecer la información que requiere en el buscador.
+- [Input Feedback](https://ui-patterns.com/patterns/InputFeedback): para que a la hora de registrarse el usuario sepa si los datos que ha introducido son correctos.
+
+ 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Basándonos en los wireframe que diseñamos en la práctica anterior y utilizando las fuentes, paleta de colores, y logo que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en [este documento](https://github.com/Mapachana/DIU21/blob/master/P3/mockup.pdf).
+
+Este mockup se ha diseñado con Figma y para apreciar mejor el diseño se recomienda encarecidamente probar la [simulación del prototipo aquí](https://www.figma.com/proto/GZ9DgNMsXS9uuvSnfnhlr1/Sharing-4U?node-id=2%3A7&viewport=1891%2C674%2C0.41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A7).
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+### Inspiración
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Sharing4U surge como iniciativa para ofrecer a los usuarios que se alojan en el hostel actividades nuevas que pueden realizar durante su estancia. Esta aplicación pueden usarla tanto huéspedes como personas externas, también con el objetivo de atraer a gente al hostel y darlo a conocer.
+
+En primer lugar, observamos las experiencias de nuestras Personas, Mario y Paloma, los cuales tenían la necesidad de encontrar y explorar nuevas actividades a realizar. Por un lado, tenemos a Mario, el cual no ha salido mucho de viaje y por tanto no sabía qué hacer en una nueva ciudad. Mientras tanto, en el caso de Paloma, debido a sus necesidades económicas, necesita explorar nuevas actividades diferentes a las habituales.
+
+![](/home/paco/Descargas/DIU/img/PersonaMario.png)
+
+![](/home/paco/Descargas/DIU/img/PersonaPaloma.png)
+
+### Primeros pasos
+
+Gracias a las vivencias de estas dos personas, y también a las nuestras propias, recogimos una serie de ideas y objetivos mediante la malla receptora de información y el Scope Canvas que posteriormente se reflejarían en nuestro propio diseño. 
+
+![](/home/paco/Descargas/DIU/img/P2%20Feedback%20Grid.png)
+
+![](/home/paco/Descargas/DIU/img/P2%20Scope%20Canvas.png)
+
+Con estas premisas, creamos nuestros primeros bocetos de una versión simplificada de la aplicación, para luego ir dándole forma al proyecto. El wireframe realizado se puede consultar [aquí](https://github.com/quepereza/DIU/blob/master/P2/Wireframe.pdf).
+
+### Desarrollo del diseño 
+
+Una vez asentada la idea, pensada la funcionalidad y diseñada la estructura de nuestra aplicación, empezamos creando un moodboard que recogiera todo lo que queríamos reflejar en el diseño de nuestra página: imágenes, colores representativos, un logo, fuentes que utilizaríamos. Así, dotando de una identidad visual a Sharing4U basada en la del Hostel4U.
+
+![](/home/paco/Descargas/DIU/img/Moodboard.png)
+
+Diseñamos una landing page que llamara la atención de los posibles usuarios tratando de hacerla simple y atractiva, dándole una gran importancia a la componente visual de la misma y reforzando las ventajas de usar nuestra aplicación.
+
+La landing page se puede consultar [aquí](https://github.com/quepereza/DIU/blob/master/P3/Landing%20Page.pdf).
+
+Finalmente, analizamos patrones de diseño que se ajustaran a las necesidades de los usuarios y retomamos los diseños que creamos anteriormente para dotarlos de la identidad de la aplicación.
+
+La apariencia final de la aplicación se puede ver [aquí](https://www.figma.com/proto/GZ9DgNMsXS9uuvSnfnhlr1/Sharing-4U?node-id=2%3A7&viewport=1906%2C774%2C0.31&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A7) en forma de prototipo interactivo creado utilizando Figma.
+
+### Conclusión
+
+Inspirándonos en experiencias de personas ficticias, pudimos desarrollar el diseño completo de una aplicación centrándonos en las necesidades de los usuarios a la par que aprendíamos técnicas de branding para hacer nuestra aplicación atractiva. Así, hemos obtenido una aplicación intuitiva y sencilla que cubre las necesidades básicas de sus usuarios.
 
 
 ## Paso 4. Evaluación 
