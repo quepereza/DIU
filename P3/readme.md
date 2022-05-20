@@ -84,4 +84,4 @@ La apariencia final de la aplicación se ve [aquí]().
 
 ### Conclusión
 
-Inspirándonos en experiencias de personas ficticias, pudimos desarrollar el diseño completo de una aplicación centrándonos en las necesidades de los usuarios a la par que aprendíamos técnicas de branding para hacer nuestra aplicación atractiva. Así, hemos obtenido una aplicación intuitiva y sencilla que cubre las necesidades básicas de sus usuarios.
+Partiendo de experiencias de personas ficticias y nuestras como inspiración, hemos podido desarrollar una aplicación centrada en dar opciones de actividades nuevas y de compartirlas con los demás. Además hemos aprendido nuevas técnicas de branding y diseño para así hacer nuestra aplicación, sencilla de usar y atractiva al público, cubriendo las necesidades básicas de los usuarios.
