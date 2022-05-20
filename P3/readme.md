@@ -1,5 +1,11 @@
 # DIU - Practica 3, entregables
 
+> DIU3.7 Deadly Sins
+>
+> Francisco Cámara Parra
+>
+> Víctor Esteban Bota
+
 ## Moodboard (diseño visual + logotipo)   
 
 Para comenzar, hemos realizado un Moodboard, usando imágenes que representas las actividad que van a realizar los usuarios de nuestra aplicación. La paleta de colores está inspirada en la página web del Hostel4U y son los que hemos utilizado para realizar tanto el logo como la landing page y la aplicación móvil.
