@@ -48,7 +48,7 @@ Como conclusión, comparando ambos casos, observamos que el caso A depende mucho
 
 ## ![Método UX](/home/paco/Descargas/DIU/img/usability-report.png) 4.d Usability Report
 
-Puedes consultar el usability report [aquí]().
+Puedes consultar el usability report [aquí](https://github.com/quepereza/DIU/blob/master/P4/P4_UsabReport_MenuGastron%C3%B3micoGranada_doneby_DIU3.7_DeadlySins.pdf).
 
 ## Conclusiones
 
